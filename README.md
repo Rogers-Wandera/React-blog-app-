@@ -1,2 +1,2 @@
-# React-blog-app-
-Ablog app created with react-router-dom (create and delete a single blog, view all blogs and view a single blog)
+# React Blog
+Blog react app created with react router with functioonalities like adding deleting a post, viewing a particular post.
